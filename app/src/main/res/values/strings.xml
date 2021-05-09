@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MADPractical2</string>
+    <string name="followBtn">Follow</string>
+    <string name="messageBtn">Message</string>
+    <string name="texBox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="todo">TODO</string>
+    <string name="textBox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="textview">TextView</string>
+</resources>
